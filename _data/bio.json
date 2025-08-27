@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "shuton-gif", "url": "http://github.com/shuton-gif" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/shuto-nishida-617994380/" },
+      { "network": "linkedin", "username": "shutonishida", "url": "https://www.linkedin.com/in/shuto-nishida-617994380/" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
@@ -25,19 +25,19 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub",]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Information and Computer Science (expected Spring, 2026)",
+      "studyType": "B.A.",
+      "startDate": "2022-01-08",
       "endDate": "Present",
       "courses": [
       ]
