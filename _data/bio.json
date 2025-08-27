@@ -16,16 +16,13 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Game Developping" },
+    { "name": "Scraping Data" },
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", ]
+      "keywords": [ "C", "C++", "Java", "Javascript",HTML, CSS ]
     },
     {
       "name": "Toolsets/OS",
