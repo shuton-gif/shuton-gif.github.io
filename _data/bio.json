@@ -11,8 +11,8 @@
     "profiles": [
       { "network": "github", "username": "shuton-gif", "url": "http://github.com/shuton-gif" },
       { "network": "linkedin", "username": "shutonishida", "url": "https://www.linkedin.com/in/shuto-nishida-617994380/" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "twitter", "username": "", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
