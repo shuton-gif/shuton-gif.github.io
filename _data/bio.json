@@ -10,9 +10,7 @@
     "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "shuton-gif", "url": "http://github.com/shuton-gif" },
-      { "network": "linkedin", "username": "shutonishida", "url": "https://www.linkedin.com/in/shuto-nishida-617994380/" },
-      { "network": "twitter", "username": "shuto", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "nishida", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "shutonishida", "url": "https://www.linkedin.com/in/shuto-nishida-617994380/" }
     ]
   },
   "interests": [
