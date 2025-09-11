@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Art of Asking Smart Questions in Software Development"
+title: "The Importance of Smart Questions in Software Development"
 date: 2025-09-10
 published: true
 labels:
