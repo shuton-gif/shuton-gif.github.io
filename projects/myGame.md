@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/hs-2.png
+image: img/myGame/hs-2.png
 title: "HAINUUN SHOUDAUN"
 date: 2025
 published: true
@@ -10,8 +10,8 @@ labels:
 summary: "Game"
 ---
 
-<img class="img-fluid" src="../img/cotton/hs-2.png">
-<img class="img-fluid" src="../img/cotton/hs-1.png">
+<img class="img-fluid" src="../img/myGame/hs-2.png">
+<img class="img-fluid" src="../img/myGame/hs-1.png">
 
 <hr>
 
