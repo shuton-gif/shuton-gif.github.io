@@ -7,7 +7,7 @@ date: 2020
 published: true
 labels:
   - Student Council
-summary: "A student council management system for organizing events and handling student affairs."
+summary: "My commitment in high school"
 ---
 
 <img class="img-fluid" src="../img/studentCouncil/s-2.png">
