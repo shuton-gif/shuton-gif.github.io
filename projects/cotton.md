@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/cotton/hs-2.png
 title: "HAINUUN SHOUDAUN"
 date: 2025
 published: true
