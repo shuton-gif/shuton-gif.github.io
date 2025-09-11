@@ -16,6 +16,8 @@ summary: "Game"
 <hr>
 
 <pre>
+
+<img class="img-fluid" src="../img/myGame/hs-3.png">
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_image.h>
 #include <SDL2/SDL_ttf.h>
