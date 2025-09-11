@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "What is it like learning TypeScript"
-date: 2025-09-03
+date: 2025-09-10
 published: true
 labels:
   - Engineering
