@@ -43,15 +43,15 @@ My opinion is that when you approach coding like storytelling, you shift from as
 
 <img class="img-fluid" src="../img/codingStandard/climber.png" style="height: 20rem;">
 
-There's a BackPackStore that sells BackPack objects with pickaxes and water. 
+**There's a BackPackStore that sells BackPack objects with pickaxes and water.**
 
 <img class="img-fluid" src="../img/codingStandard/Store.png" style="eight: 40%;">
 
-Then it is more intuitive that the store is declaring the Objects.
+**Then it is more intuitive that the store is declaring the Objects.**
 
 <img class="img-fluid" src="../img/codingStandard/newClimbing.png" style="height: 60%;">
 
-Then you need a climbUp() function to go up.
+**Then you need a climbUp() function to go up.**
 
 <img class="img-fluid" src="../img/codingStandard/final.png" style="height: 60%;">
 <img class="img-fluid" src="../img/codingStandard/finalStore.png" style="height: 60%;">
