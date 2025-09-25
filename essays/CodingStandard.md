@@ -38,7 +38,7 @@ const { firstName, lastName, email } = user;
 You are not just writing shorter code. You will learn features for working with objects, and you are training yourself to recognize when to use them.
 
 ### The Meta-Lesson
-An additional thought that made me think is to write as if you are writing a story - to get to the goal, make your tools (functions and objectTypes) and do it.
+An additional thought that made me think is to write as if you are writing a story to get to the goal, make your tools (functions and objectTypes) and do it.
 My opinion is that when you approach coding like storytelling, you shift from asking "what tools can I build?" to "what kind of tools do I need?" I think this connects directly to why coding standards matter so much. If your goal is to climb a mountain, you don't just create random functions; you design tools that serve the climbing story. You create a Climber who has a BackPack filled with gear.
 
 <img class="img-fluid" src="../img/codingStandard/climber.png" style="height: 50rem; margin-left: auto; margin-right: auto; display: block;">
