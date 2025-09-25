@@ -17,7 +17,8 @@ But coding standards are what make efficiency; it's like correcting everyone's d
 ### From ESLint Errors
 Although I still think fixing ESLint errors is miserable.
 Because I will not want to see this.
-<img class="img-fluid" src="../img/codingStandard/BadTypeScript.png" style="max-width: 60%; height: auto;">
+
+<img class="img-fluid" src="../img/codingStandard/BadTypeScript.png" style="max-width: 10%; height: 10rem;">
 
 However, they are practical. Take the simple rule of using `const` instead of `var` - it's not just nitpicking, it's about safety. When you declare `var x = 5` inside a function, that variable can be redeclared and hoisted in ways that might create bugs. But `const x = 5` creates a block-scoped variable, prevents accidental reassignment and makes your intent clear. The compiler becomes your safety net, catching mistakes before they become runtime errors that crash in production. 
 
