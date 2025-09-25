@@ -38,15 +38,19 @@ You are not just writing shorter code. You will learn features for working with 
 ### The Meta-Lesson
 An additional thought that made me think is to write as if you are writing a story - to get to the goal, make your tools (functions and objectTypes) and do it.
 My opinion is that when you approach coding like storytelling, you shift from asking "what tools can I build?" to "what kind of tools do I need?" I think this connects directly to why coding standards matter so much. If your goal is to climb a mountain, you don't just create random functions; you design tools that serve the climbing story. You create a Climber who has a BackPack filled with gear.
+
 <img class="img-fluid" src="../img/CodingStandard/climber.png">
 
-There's a BackPackStore that sells BackPack objects with pickaxes and water. 
+# There's a BackPackStore that sells BackPack objects with pickaxes and water. 
+
 <img class="img-fluid" src="../img/CodingStandard/Store.png">
 
-Then it is more intuitive that the store is declaring the Objects.
+# Then it is more intuitive that the store is declaring the Objects.
+
 <img class="img-fluid" src="../img/CodingStandard/newClimbing.png">
 
-Then you need a climbUp() function to go up.
+# Then you need a climbUp() function to go up.
+
 <img class="img-fluid" src="../img/CodingStandard/final.png">
 
 In my view, coding standards enforce this same storytelling discipline. They force you to name functions clearly (climbUp() instead of move()), structure classes meaningfully (BackPack with the types of products sold), and organize code so the narrative flows logically. Just like how a good story has consistent character voices, coding standards create consistency in how your code "speaks." When everyone on your team follows the same standards for naming, formatting, and structure, it's easier to follow the story.
