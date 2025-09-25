@@ -18,7 +18,7 @@ But coding standards are what make efficiency; it's like correcting everyone's d
 Although I still think fixing ESLint errors is miserable.
 Because I will not want to see this.
 
-<img class="img-fluid" src="../img/codingStandard/BadTypeScript.png" style="height: 100rem;">
+<img class="img-fluid" src="../img/codingStandard/BadTypeScript.png" style="height: 50rem;">
 
 However, they are practical. Take the simple rule of using `const` instead of `var` - it's not just nitpicking, it's about safety. When you declare `var x = 5` inside a function, that variable can be redeclared and hoisted in ways that might create bugs. But `const x = 5` creates a block-scoped variable, prevents accidental reassignment and makes your intent clear. The compiler becomes your safety net, catching mistakes before they become runtime errors that crash in production. 
 
@@ -45,16 +45,16 @@ My opinion is that when you approach coding like storytelling, you shift from as
 
 **There's a BackPackStore that sells BackPack objects with pickaxes and water.**
 
-<img class="img-fluid" src="../img/codingStandard/Store.png" style="height: 75rem;">
+<img class="img-fluid" src="../img/codingStandard/Store.png" style="height: 50rem;">
 
 **Then it is more intuitive that the store is declaring the Objects.**
 
-<img class="img-fluid" src="../img/codingStandard/newClimbing.png" style="height: 25rem;">
+<img class="img-fluid" src="../img/codingStandard/newClimbing.png" style="height: 50rem;">
 
 **Then you need a climbUp() function to go up.**
 <div style="display: flex; gap: 1rem;">
-    <img class="img-fluid" src="../img/codingStandard/final.png" style="max-width: 25%, height: 50rem;">
-    <img class="img-fluid" src="../img/codingStandard/finalStore.png" style="max-width: 25%, height: 50rem;">
+    <img class="img-fluid" src="../img/codingStandard/final.png" style="height: 40rem;">
+    <img class="img-fluid" src="../img/codingStandard/finalStore.png" style="height: 40rem;">
 </div>
 
 In my view, coding standards enforce this same storytelling discipline. They force you to name functions clearly (climbUp() instead of move()), structure classes meaningfully (BackPack with the types of products sold), and organize code so the narrative flows logically. Just like how a good story has consistent character voices, coding standards create consistency in how your code "speaks." When everyone on your team follows the same standards for naming, formatting, and structure, it's easier to follow the story.
