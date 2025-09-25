@@ -25,12 +25,13 @@ However, they are practical. Take the simple rule of using `const` instead of `v
 Most engineering practices try to catch problems after they happen. Tests catch bugs after you've introduced them. Debugging fixes problems after they've broken something.
 Coding standards catch problems before they exist. They are preventive medicine for your code.
 But the real strength is that they teach you to think cleaner.
-# Instead of this:
+
+Instead of this:
 const firstName = user.firstName;
 const lastName = user.lastName;
 const email = user.email;
 
-# Do This:
+Do This:
 const { firstName, lastName, email } = user;
 
 You are not just writing shorter code. You will learn features for working with objects, and you are training yourself to recognize when to use them.
