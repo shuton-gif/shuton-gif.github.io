@@ -21,6 +21,8 @@ Before, most of my sites were for myself, my game projects or my Blender atelier
 
 
 
+
+
 ## Too Much Information or Too Little
 
 Another thing that confused me at first was how much information should be shown at once. Each tag could display a lot of data, like the name, planned start date, planned end date, description, actual dates, and severity. That was definitely too much. So I switched to only showing small dots,but now it felt like there was not enough information to be useful. I had to try again and again to find the perfect balance. What should be visible right away, and what should only appear when someone interacts with the UI?
