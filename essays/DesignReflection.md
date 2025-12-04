@@ -19,9 +19,7 @@ labels:
 When I started working on my final project, I realized pretty quickly that this time felt different from the websites I had made in the past. 
 Before, most of my sites were for myself, my game projects or my Blender atelier, so I always used vivid colors that grabbed attention right away. I liked designs that felt playful and energetic. But this project was for IV&V, and suddenly I had to think in a more professional way. I kept asking myself simple questions like, “If I were actually working here, what color would I want to look at all day?” That shift alone changed how I approached design. It stopped being about expression and started being about comfort and clarity.
 
-
-
-
+<div style="clear: both;"></div>
 
 ## Too Much Information or Too Little
 
