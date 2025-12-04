@@ -13,8 +13,8 @@ labels:
 
 ## From Drawing for Me to Drawing for Them
 
-<img class="img-fluid" src="../img/myGame/hs-2.png" style="height: 10rem; margin-left: auto; margin-right: auto; display: block;">
 When I started working on my final project, I realized pretty quickly that this time felt different from the websites I had made in the past. 
+<img class="img-fluid" src="../img/myGame/hs-2.png" style="height: 25rem; margin-left: auto; margin-right: auto; display: block;">
 Before, most of my sites were for myself, my game projects or my Blender atelier, so I always used vivid colors that grabbed attention right away. I liked designs that felt playful and energetic. But this project was for IV&V, and suddenly I had to think in a more professional way. I kept asking myself simple questions like, “If I were actually working here, what color would I want to look at all day?” That shift alone changed how I approached design. It stopped being about expression and started being about comfort and clarity.
 
 ## Too Much Information or Too Little
@@ -43,3 +43,5 @@ The tags themselves were never hard coded one by one. They were created dynamica
 ## What I Was Really Learning
 
 Looking back, I started this project thinking it was mostly about colors, spacing, and layout. But right now, I realized I had been learning about how and who. Design patterns are not just fancy names for code tricks. They are shared ways of thinking that help people solve the same kinds of problems without starting from zero every time. Without trying to, I ended up using several patterns in my final project, reusable components, reactive updates, centralized state, and dynamic UI creation. The title of this essay, “The Art of Drawing with Others,” makes more sense to me now. I was drawing alone. Now I am drawing others. And that, to me, is what design patterns really are.
+
+credit: ChatGpt for grammar checking
