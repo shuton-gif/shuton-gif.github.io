@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "shuton-gif", "url": "http://github.com/shuton-gif" },
+      { "network": "github", "username": "shuton-gif", "url": "https://github.com/shuton-gif" },
       { "network": "linkedin", "username": "shutonishida", "url": "https://www.linkedin.com/in/shuto-nishida-617994380/" }
     ]
   },
