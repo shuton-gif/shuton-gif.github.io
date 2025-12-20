@@ -1,6 +1,19 @@
 ---
 layout: default
 ---
-{% include header.html %}
-{{ content }}
-{% include footer.html %}
+<style>
+  @font-face {
+    font-family: 'Daydream';
+    src: url('{{ "/css/fonts/Daydream DEMO.otf" | prepend: site.baseurl }}') format('opentype');
+  }
+  
+  .home-page {
+    font-family: 'Daydream', sans-serif;
+  }
+</style>
+
+<div class="home-page">
+  {% include header.html %}
+  {{ content }}
+  {% include footer.html %}
+</div>
