@@ -7,13 +7,17 @@ layout: default
     src: url('{{ "/css/fonts/Daydream DEMO.otf" | prepend: site.baseurl }}') format('opentype');
   }
   
-  .home-page {
+  .actual-home-page {
     font-family: 'Daydream', sans-serif;
     background-color: #f49cbb;
   }
 </style>
 
-<div class="home-page">
+{% if page.title == "Home" %}
+<div class="actual-home-page">
+{% else %}
+<div>
+{% endif %}
   {% include header.html %}
   {{ content }}
   {% include footer.html %}
